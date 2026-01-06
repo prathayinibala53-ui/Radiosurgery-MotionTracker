@@ -1,6 +1,8 @@
 # Radiosurgery-MotionTracker
 This is a project I am working on with my design team, which uses an IMU sensor to gather movement signals and display cleaned data on a GUI for medical professionals to track movement. 
 
+NOTE: This project is ongoing. Data creation files and the UI have been made along with an app. However, these can not be shared online at this time. 
+
 ## Overview
 MotionTracker is a Python application that reads and visualizes simulated wearable sensor (IMU) data in real time.  
 This project demonstrates skills in signal processing, real-time data plotting, and GUI development using Tkinter and Matplotlib.
